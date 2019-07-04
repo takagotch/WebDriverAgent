@@ -2,6 +2,8 @@
 ---
 https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent
 
+https://github.com/facebookarchive/WebDriverAgent
+
 ```
 ./Scripts/bootstrap.sh
 ```
